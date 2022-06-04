@@ -29,6 +29,4 @@ Artificial Intelligence
    :maxdepth: 4
 
    ai.md
-
-
    
