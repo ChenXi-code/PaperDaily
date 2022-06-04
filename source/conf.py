@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = '机器学习社区'
+project = 'DailyPaper'
 copyright = '2022, 程序员城哥'
 author = 'chengge'
 
