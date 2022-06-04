@@ -4,8 +4,7 @@ Computer Vision
 .. toctree::
    :maxdepth: 2
    
-   python_base_knowledge.rst
-   how_to_study_py.rst
+   computer_vision.md
 
 Machine Learning
 ===================================
@@ -13,7 +12,7 @@ Machine Learning
 .. toctree::
    :maxdepth: 4
 
-   python_base.md
+   machine_learning.md
    
 NLP
 ===================================
@@ -21,7 +20,7 @@ NLP
 .. toctree::
    :maxdepth: 4
 
-   python_base.md 
+   nlp.md 
    
 Artificial Intelligence
 ===================================
@@ -29,7 +28,7 @@ Artificial Intelligence
 .. toctree::
    :maxdepth: 4
 
-   python_base.md
+   ai.md
 
 
    
